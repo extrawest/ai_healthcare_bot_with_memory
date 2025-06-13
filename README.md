@@ -8,6 +8,16 @@
 
 An intelligent healthcare assistant with memory capabilities using Mem0, built using FastAPI, Chainlit, and mem0. This bot can remember patient information across conversations, providing personalized healthcare support.
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/ee2f519c-fdf6-4143-8fe3-8c03e0977462
+
+
+
+
+
 ## 🌟 Features
 
 - 🧠 **Memory System**: Remembers patient information and conversation history using mem0
